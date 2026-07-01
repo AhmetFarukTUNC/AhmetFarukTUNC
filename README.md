@@ -1,14 +1,108 @@
-👋 Hello! I’m Ahmet Faruk Tunc 👋
+👋 Hi, I'm Ahmet Faruk Tunç
 
-I’m a dynamic software developer with hands-on experience across a diverse range of technologies. My journey includes developing a project with Spring Boot, working on two projects with ASP.NET Core, and delving into predictive AI with Python. 🚀
+Backend & AI Developer | Computer Engineering Student
 
-🔹 Software Development: Skilled in building scalable and efficient applications using Java Spring Boot and ASP.NET Core, with a focus on high-quality API design and development.
-🔹 Predictive AI: Applied Python for advanced AI solutions, utilizing data to drive insightful predictions and enhancements.
-🔹 Technology Stack: Proficient in Python, C++, Angular, and various design patterns including MVC. Experienced in front-end technologies like HTML, CSS, Sass, and Tailwind for creating visually appealing and responsive interfaces.
+I'm a Computer Engineering student passionate about Backend Development, Artificial Intelligence, and Mobile Applications. I enjoy building scalable software, designing RESTful APIs, and integrating AI models into real-world applications.
 
-With a passion for leveraging technology to solve complex problems and a continuous drive to expand my skill set, I’m always eager to take on new challenges and collaborate on innovative projects. Let’s connect and explore how we can drive technological advancements together!
+---
 
-📩 Feel free to reach out for collaboration opportunities, insights, or a chat about the latest tech trends!
+🚀 About Me
 
+- 💻 Backend Developer focused on ASP.NET Core
+- 🤖 AI & Machine Learning Enthusiast
+- 📱 Flutter & React Native Developer
+- 🧠 Interested in Healthcare AI Solutions
+- 🌱 Currently learning Cloud Computing, Docker, Kubernetes and Microservices
+- 🎯 Goal: Become a Software Engineer at a global technology company
 
+---
 
+🛠 Tech Stack
+
+Languages
+
+"C#" (https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+"Java" (https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Backend
+
+ASP.NET Core • REST API • Flask • Spring Boot
+
+Mobile
+
+Flutter • React Native
+
+Databases
+
+SQL Server • MySQL • Firebase
+
+AI & Machine Learning
+
+TensorFlow • Keras • CNN • OpenCV • Scikit-learn
+
+Tools
+
+Git • GitHub • Postman • Swagger
+
+---
+
+📌 Featured Projects
+
+🧠 Brain Tumor Prediction System
+
+AI-powered brain tumor detection platform using CNN and ASP.NET Core.
+
+Tech Stack
+
+- ASP.NET Core
+- Flask
+- TensorFlow
+- CNN
+
+---
+
+🩺 AI Alzheimer Diagnosis Platform
+
+Healthcare platform integrating Artificial Intelligence for Alzheimer prediction.
+
+Tech Stack
+
+- ASP.NET Core
+- React Native
+- Python
+
+---
+
+🔬 Bacteria Identification System
+
+Deep Learning model for bacteria classification from microscopic images.
+
+---
+
+❤️ Heart Disease Prediction Platform
+
+Machine Learning based disease prediction system.
+
+---
+
+📊 GitHub Stats
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC&show_icons=true&theme=tokyonight)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC&layout=compact&theme=tokyonight)
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: atunc8402@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/ahmet-faruk-tunc-5376a8221
+- 🌐 GitHub: https://github.com/AhmetFarukTUNC
+- ✍️ Medium: https://medium.com/@atunc8402
+
+---
+
+«"Building scalable software powered by Artificial Intelligence."»
