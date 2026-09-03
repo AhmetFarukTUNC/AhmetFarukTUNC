@@ -95,23 +95,21 @@ Machine Learning-based application that analyzes patient data and predicts poten
 
 ## 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmetFarukTUNC&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC&show_icons=true&theme=tokyonight"
-    alt="Ahmet's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmetFarukTUNC&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhmetFarukTUNC&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmetFarukTUNC&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmetFarukTUNC&theme=tokyonight&utcOffset=3" />
 </p>
 
 ---
-
-
-
 
 ## 📫 Connect With Me
 
