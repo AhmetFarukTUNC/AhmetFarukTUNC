@@ -98,13 +98,14 @@ Machine Learning-based application that analyzes patient data and predicts poten
 
 
 <p align="center">
-  <a href="https://github.com/AhmetFarukTUNC">
-    <img src="https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
-  </a>
-
-  <a href="https://github.com/AhmetFarukTUNC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC&show_icons=true&theme=tokyonight"
+    alt="Ahmet's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 ---
