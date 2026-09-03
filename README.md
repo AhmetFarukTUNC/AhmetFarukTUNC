@@ -1,108 +1,113 @@
-👋 Hi, I'm Ahmet Faruk Tunç
+# 👋 Hi, I'm Ahmet Faruk Tunç
 
-Backend & AI Developer | Computer Engineering Student
+### Full-Stack Developer | AI & Machine Learning Developer | Mobile Developer
 
-I'm a Computer Engineering student passionate about Backend Development, Artificial Intelligence, and Mobile Applications. I enjoy building scalable software, designing RESTful APIs, and integrating AI models into real-world applications.
-
----
-
-🚀 About Me
-
-- 💻 Backend Developer focused on ASP.NET Core
-- 🤖 AI & Machine Learning Enthusiast
-- 📱 Flutter & React Native Developer
-- 🧠 Interested in Healthcare AI Solutions
-- 🌱 Currently learning Cloud Computing, Docker, Kubernetes and Microservices
-- 🎯 Goal: Become a Software Engineer at a global technology company
+I'm a Computer Engineering graduate passionate about building **Web, Mobile, and Artificial Intelligence applications**. I enjoy developing modern user experiences, scalable backend systems, RESTful APIs, and AI-powered solutions that solve real-world problems.
 
 ---
 
-🛠 Tech Stack
+## 🚀 About Me
 
-Languages
+* 💻 Full-Stack Developer focused on **ASP.NET Core & React**
+* 🤖 AI & Machine Learning Developer
+* 🌐 Building modern **Web Applications & RESTful APIs**
+* 📱 Developing **Mobile Applications with Flutter & React Native**
+* 🧠 Experienced in **Computer Vision & Healthcare AI**
+* 🗄️ Working with relational and NoSQL databases
+* 🐳 Currently improving my skills in **Docker, Cloud Computing, Microservices & Kubernetes**
+* 🎯 Goal: Build scalable software products powered by modern technologies and AI
 
-"C#" (https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-"Dart" (https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-Backend
+## 🛠 Tech Stack
 
-ASP.NET Core • REST API • Flask • Spring Boot
+### Languages
 
-Mobile
+C# • Python • Java • JavaScript • TypeScript • Dart
+
+### Web Development
+
+React • HTML • CSS • REST API • ASP.NET Core
+
+### Backend
+
+ASP.NET Core Web API • Entity Framework Core • Spring Boot • Flask
+
+### Mobile
 
 Flutter • React Native
 
-Databases
+### Databases
 
-SQL Server • MySQL • Firebase
+SQL Server • MySQL • PostgreSQL • MongoDB • Firebase
 
-AI & Machine Learning
+### AI & Machine Learning
 
-TensorFlow • Keras • CNN • OpenCV • Scikit-learn
+Python • TensorFlow • Keras • CNN • OpenCV • Scikit-learn • Computer Vision
 
-Tools
+### Tools & Technologies
 
-Git • GitHub • Postman • Swagger
-
----
-
-📌 Featured Projects
-
-🧠 Brain Tumor Prediction System
-
-AI-powered brain tumor detection platform using CNN and ASP.NET Core.
-
-Tech Stack
-
-- ASP.NET Core
-- Flask
-- TensorFlow
-- CNN
+Git • GitHub • Docker • Postman • Swagger • Visual Studio • VS Code
 
 ---
 
-🩺 AI Alzheimer Diagnosis Platform
+## 📌 Featured Projects
 
-Healthcare platform integrating Artificial Intelligence for Alzheimer prediction.
+### 👁️ EyeAI – AI-Powered Eye Disease Detection
 
-Tech Stack
+Full-stack healthcare application that analyzes eye images using Artificial Intelligence and provides disease predictions with confidence scores.
 
-- ASP.NET Core
-- React Native
-- Python
+**Tech Stack:** React • ASP.NET Core • Entity Framework Core • SQL Server • Python • TensorFlow • OpenCV
 
 ---
 
-🔬 Bacteria Identification System
+### 🧠 Brain Tumor Prediction System
 
-Deep Learning model for bacteria classification from microscopic images.
+AI-powered medical imaging platform developed to analyze brain tomography/MRI images and classify possible brain tumor types using Deep Learning.
 
----
-
-❤️ Heart Disease Prediction Platform
-
-Machine Learning based disease prediction system.
+**Tech Stack:** Python • TensorFlow • CNN • OpenCV • ASP.NET Core • Flask
 
 ---
 
-📊 GitHub Stats
+### 🩺 AI Alzheimer Diagnosis Platform
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC&show_icons=true&theme=tokyonight)
+Healthcare application integrating Artificial Intelligence for Alzheimer prediction and providing a user-friendly mobile experience.
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC&layout=compact&theme=tokyonight)
-
----
-
-📫 Connect With Me
-
-- 📧 Email: atunc8402@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/ahmet-faruk-tunc-5376a8221
-- 🌐 GitHub: https://github.com/AhmetFarukTUNC
-- ✍️ Medium: https://medium.com/@atunc8402
+**Tech Stack:** ASP.NET Core • React Native • Python • AI/ML
 
 ---
 
-«"Building scalable software powered by Artificial Intelligence."»
+### 🔬 Bacteria Identification System
+
+Deep Learning-based computer vision project designed to classify bacteria from microscopic images.
+
+**Tech Stack:** Python • TensorFlow • OpenCV • CNN
+
+---
+
+### ❤️ Heart Disease Prediction Platform
+
+Machine Learning-based application that analyzes patient data and predicts potential heart disease risk.
+
+**Tech Stack:** Python • Scikit-learn • Machine Learning
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: [atunc8402@gmail.com](mailto:atunc8402@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/ahmet-faruk-tunc-5376a8221
+* 🌐 GitHub: https://github.com/AhmetFarukTUNC
+* ✍️ Medium: https://medium.com/@atunc8402
+
+---
+
+### 💡 Building Web & Mobile Applications powered by Artificial Intelligence.
