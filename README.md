@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | AI & Machine Learning Developer | Mobile Developer
 
-I'm a Computer Engineering graduate passionate about building **Web, Mobile, and Artificial Intelligence applications**. I enjoy developing modern user experiences, scalable backend systems, RESTful APIs, and AI-powered solutions that solve real-world problems.
+I'm a **Computer Engineering graduate** passionate about building **Web, Mobile, and Artificial Intelligence applications**. I enjoy developing modern user experiences, scalable backend systems, RESTful APIs, and AI-powered solutions that solve real-world problems.
 
 ---
 
@@ -13,41 +13,41 @@ I'm a Computer Engineering graduate passionate about building **Web, Mobile, and
 * 🌐 Building modern **Web Applications & RESTful APIs**
 * 📱 Developing **Mobile Applications with Flutter & React Native**
 * 🧠 Experienced in **Computer Vision & Healthcare AI**
-* 🗄️ Working with relational and NoSQL databases
-* 🐳 Currently improving my skills in **Docker, Cloud Computing, Microservices & Kubernetes**
-* 🎯 Goal: Build scalable software products powered by modern technologies and AI
+* 🗄️ Working with **SQL and NoSQL databases**
+* 🐳 Improving my skills in **Docker, Cloud Computing, Microservices & Kubernetes**
+* 🎯 Building scalable software products powered by **modern technologies and AI**
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-C# • Python • Java • JavaScript • TypeScript • Dart
+`C#` `Python` `Java` `JavaScript` `TypeScript` `Dart`
 
-### Web Development
+### 🌐 Web Development
 
-React • HTML • CSS • REST API • ASP.NET Core
+`React` `HTML` `CSS` `REST API` `ASP.NET Core`
 
-### Backend
+### ⚙️ Backend
 
-ASP.NET Core Web API • Entity Framework Core • Spring Boot • Flask
+`ASP.NET Core Web API` `Entity Framework Core` `Spring Boot` `Flask`
 
-### Mobile
+### 📱 Mobile
 
-Flutter • React Native
+`Flutter` `React Native`
 
-### Databases
+### 🗄️ Databases
 
-SQL Server • MySQL • PostgreSQL • MongoDB • Firebase
+`SQL Server` `MySQL` `PostgreSQL` `MongoDB` `Firebase`
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
-Python • TensorFlow • Keras • CNN • OpenCV • Scikit-learn • Computer Vision
+`Python` `TensorFlow` `Keras` `CNN` `OpenCV` `Scikit-learn` `Computer Vision`
 
-### Tools & Technologies
+### 🔧 Tools & Technologies
 
-Git • GitHub • Docker • Postman • Swagger • Visual Studio • VS Code
+`Git` `GitHub` `Docker` `Postman` `Swagger` `Visual Studio` `VS Code`
 
 ---
 
@@ -95,18 +95,29 @@ Machine Learning-based application that analyzes patient data and predicts poten
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmetFarukTUNC&show_icons=true&theme=tokyonight" alt="Ahmet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetFarukTUNC&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* 📧 Email: [atunc8402@gmail.com](mailto:atunc8402@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/ahmet-faruk-tunc-5376a8221
-* 🌐 GitHub: https://github.com/AhmetFarukTUNC
-* ✍️ Medium: https://medium.com/@atunc8402
+<p align="left">
+  <a href="mailto:atunc8402@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ahmet-faruk-tunc-5376a8221">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AhmetFarukTUNC">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@atunc8402">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
