@@ -105,9 +105,9 @@ Machine Learning-based application that analyzes patient data and predicts poten
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:atunc8402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=atunc8402@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="https://linkedin.com/in/ahmet-faruk-tunc-5376a8221">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
